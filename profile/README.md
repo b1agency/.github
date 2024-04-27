@@ -1,4 +1,4 @@
-## B1 Agency: ... .
+## B1 Agency: In a world of many, Be One.
 
 **Welcome to B1 Agency, your one-stop shop for all things software development!**
 
